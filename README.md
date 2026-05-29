@@ -134,7 +134,7 @@ If you find our work useful in your research, please consider citing our paper:
 @article{chanda2026rethinking,
   title={Rethinking Dense Optical Flow without Test-Time Scaling},
   author={Chanda, Praroop and Kumar, Suryansh},
-  journal={arXiv preprint arXiv:2605.08000},
+  conference={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshops},
   year={2026}
 }
 ```
