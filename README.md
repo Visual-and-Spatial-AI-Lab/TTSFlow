@@ -103,7 +103,7 @@ Please change the corresponding paths in [datasets.py](data/datasets.py).
 You can evaluate a trained TTS_flow model by running:
 
 ```
-CUDA_VISIBLE_DEVICES=0 python3 main.py --eval --val_dataset things sintel --resume TTS_ckpts/TTS_CT_TSKH.pth 
+CUDA_VISIBLE_DEVICES=0 python3 main.py --eval --val_dataset sintel --resume TTS_ckpts/TTS_CT_TSKH.pth --dino_path facebook/dinov2-small --depth_model_path depth_anything_v2_ckpt.pth
 ```
 
 
