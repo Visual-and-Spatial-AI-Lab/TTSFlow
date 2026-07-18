@@ -1,4 +1,4 @@
-# GMFlow
+# TTSFlow
 
 
 Official PyTorch implementation of paper:
